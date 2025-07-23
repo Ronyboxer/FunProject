@@ -1,12 +1,28 @@
-# React + Vite
+# ✍️ MadLibs Story Maker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MadLibs Story Maker** is a fun, interactive web app built with React that lets users create hilarious and unpredictable stories by filling in the blanks of quirky sentence templates.
 
-Currently, two official plugins are available:
+Whether you're bored, feeling creative, or just want to laugh with friends, this app turns your words into wild, weird, and often ridiculous stories!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎉 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 20+ unique story templates with multiple sentences
+- Placeholders like `[noun]`, `[verb]`, `[place]`, `[adjective]`, etc.
+- Dynamic story rendering based on user input
+- Real-time prompt system that collects words in a friendly, step-by-step format
+- Mobile-friendly and responsive design
+- Super simple and fun to use
+
+---
+
+## 🕹️ How to Play
+
+1. Open the app in your browser.
+2. You'll see a story prompt with blank placeholders.
+3. Enter the requested words (e.g., a noun, verb, adjective, etc.).
+4. Hit “Generate” and watch your story come to life!
+5. Laugh. Share. Repeat.
+
+---
