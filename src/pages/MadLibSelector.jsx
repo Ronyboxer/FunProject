@@ -3,7 +3,7 @@ import BUTTON_POSITIONS from './madlibButtonPositions';
 export default function MadLibSelector({ templates, onSelect }) {
   return (
     <div className="madlibs-selector">
-      <h2>Select a Mad Lib Story</h2>
+      <h2 className='madlibs-selector-title'>Select a Mad Lib Story</h2>
       <ul>
         {templates.map((tpl, idx) => {
           const pos = BUTTON_POSITIONS[idx % BUTTON_POSITIONS.length];

@@ -19,7 +19,7 @@ export default function ChooseMadLibs() {
 
   return (
     <div className="madlibs-app">
-      <h1>Mad Libs Story Maker</h1>
+      <h1>SillyFillz</h1>
       {step === 'select' && (
         <MadLibSelector templates={madLibTemplates} onSelect={idx => { setSelectedIdx(idx); setStep('fill'); setInputs({}); }} />
       )}

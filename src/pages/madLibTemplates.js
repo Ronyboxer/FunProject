@@ -16,8 +16,8 @@ const madLibTemplates = [
     template: "I had the strangest dream last night. I was flying over the [place] on a [adjective] [animal] made of [food]. Below me, [celebrity] was dancing with a group of [plural noun] while holding a glowing [noun]. Suddenly, everything turned into [liquid] and I started to [verb] uncontrollably. I woke up covered in sweat, clutching a [noun] and whispering '[weird word]...'"
   },
   {
-    title: "The Haunted Summer Camp",
-    template: "At summer camp, our cabin was haunted by a [adjective] ghost named [funny name] who only appeared when someone dropped a [noun]. One night, my bunkmate dared me to [verb] alone in the [place] after dark. I brought a flashlight, some [plural noun], and a [noun] for protection. At exactly midnight, the ghost screamed '[exclamation]!' and covered the cabin in [liquid]. I never ran so fast in my life."
+    title: "The Haunted Summer School",
+    template: "At summer school, our cabin was haunted by a [adjective] ghost named [funny name] who only appeared when someone dropped a [noun]. One night, my bunkmate dared me to [verb] alone in the [place] after dark. I brought a flashlight, some [plural noun], and a [noun] for protection. At exactly midnight, the ghost screamed '[exclamation]!' and covered the cabin in [liquid]. I never ran so fast in my life."
   },
   {
     title: "The Magical Attic Portal",

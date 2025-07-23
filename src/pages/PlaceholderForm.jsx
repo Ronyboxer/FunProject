@@ -4,7 +4,7 @@ export default function PlaceholderForm({ template, placeholders, onSubmit }) {
   const [inputs, setInputs] = useState({});
   return (
     <form className="madlibs-form" onSubmit={e => {e.preventDefault(); onSubmit(inputs);}}>
-      <h2>Fill in the blanks</h2>
+      <h2>Fill in the blanks, silly!</h2>
       {placeholders.map(ph => (
         <div key={ph}>
           <label>
@@ -18,7 +18,7 @@ export default function PlaceholderForm({ template, placeholders, onSubmit }) {
           </label>
         </div>
       ))}
-      <button type="submit">See My Story!</button>
+      <button type="submit">See My Silly Story!</button>
     </form>
   );
 } 
